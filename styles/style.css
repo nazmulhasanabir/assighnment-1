@@ -191,6 +191,10 @@ a {
   margin: 0px 200px 50px 200px;
 }
 
+.yt iframe{
+    border-radius:  8px;;
+}
+
 /* fourth project */
 .skill {
   margin: 90px 150px;

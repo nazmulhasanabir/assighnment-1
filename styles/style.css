@@ -23,9 +23,10 @@
 }
 /* image-1 */
 .first-project {
-  background-image: url("/assets/Hero-bg.png");
+  background-image: url("/assets/Herobg.png");
   max-height: 652px;
   max-width: 1550px;
+  background-position:;
 }
 /* button */
 .contact-me {
@@ -158,4 +159,69 @@ height: 217.01px;
 .img-3{
     width: 259.56px;
     height: 217.01px;
+}
+/* project-3 */
+.inspired{
+max-width: 1140px;
+/* max-height: 777px; */
+text-align: center;
+padding: 88px 292px 80px;
+}
+
+.point-4{
+    color: rgb(13, 19, 33);
+  
+    font-size: 32px;
+    font-weight: 800
+}
+.inspired-descript{
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 400;}
+
+
+    /* fourth project */
+    .html-learn{
+        /* border: red solid 2px; */
+        max-width: 1140px;
+    max-height: 777px;
+    text-align: center;
+    padding: 88px 292px 80px;
+
+    }
+.current-target{
+    color: rgb(13, 19, 33);
+font-size: 32px;
+font-weight: 800;
+    }
+.target-descript{
+color: rgb(13, 19, 33);
+font-size: 16px;
+font-weight: 400;
+margin: 24px 0px;
+    }
+.target{
+    display:flex;
+    justify-content: space-between;
+}
+
+
+
+.l-html{
+    border: red 2px solid;
+    width: 364px;
+    height: 299px;
+}
+
+.l-css{
+    border: red 2px solid;
+    width: 364px;
+    height: 299px;
+}
+
+.l-javasc{
+    border: red 2px solid;
+    width: 364px;
+    height: 299px;
 }

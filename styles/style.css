@@ -266,11 +266,15 @@
 .support-session {
   border-radius: 16px;
   background-image: url(../assets/handshake.jpg);
+  background-position:center;
   margin: 47px 150px 150px;
   width: 1140px;
-  height: 314px;
+  /* height: 314px; */
   padding: 64px 48px;
   text-align: center;
+  background-size: cover;
+  color: 0 0 0 0.2;
+ 
 }
 .sub-button {
   margin: 80px 0px 0px 180px;

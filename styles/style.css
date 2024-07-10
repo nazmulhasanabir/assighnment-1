@@ -14,19 +14,18 @@
 .discription-1 {
   color: rgb(13, 19, 33);
   font-size: 16px;
-  font-weight: 400;
+  font-weight: 350;
 }
 .tittle-1 {
-  width: 1440px;
-  height: 652px;
   margin: 131px 0px 70px 0px;
   text-align: center;
-  padding: 26px 221px;
+  padding: 26px 221px 44px ;
 }
 /* image-1 */
 .first-project {
   background-image: url("/assets/Hero-bg.png");
-  height: 652px;
+  max-height: 652px;
+  max-width: 1550px;
 }
 /* button */
 .contact-me {

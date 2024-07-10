@@ -159,11 +159,10 @@
 }
 /* project-3 */
 .inspired {
+    margin-top: 150px;
   max-width: 1140px;
-  /* max-height: 777px; */
   text-align: center;
-  /* padding: 88px 292px 80px; */
-  padding: 0px 144px 738px;
+  padding: 0px 300px 30px;
 }
 
 .point-4 {
@@ -174,21 +173,25 @@
 }
 .inspired-descript {
   color: rgb(13, 19, 33);
-  font-family: Azeret Mono;
   font-size: 16px;
   font-weight: 400;
+ 
 }
 
 /* vedio */
 .yt {
-  border-radius: 16px;
-  margin: 48px 97px;
-  padding: 48px;
+   border:20px 100px;
+    border: 1px solid rgba(13, 19, 33, 0.2);
+    border-radius: 16px;
+    padding: 50px;
+    margin: 0px 200px 50px 200px;
+    
+    
 }
 
 /* fourth project */
 .skill {
-  margin: 150px 150px;
+  margin: 90px 150px;
 }
 .html-learn {
   /* border: red solid 2px; */
@@ -240,4 +243,55 @@
   border-radius: 16px;
   background-color: rgba(255, 223, 0, 0.05);
 
+}
+/* fifth-project */
+
+.support h3{
+color: rgb(255, 255, 255);
+font-size: 32px;
+font-weight: 700;
+
+}
+
+.support p{
+ color: rgb(255, 255, 255);
+ text-shadow: #000000;
+font-size: 16px;
+font-weight: 400;
+    
+}
+/* image section */
+.support-session{
+  border-radius: 16px;
+    background-image: url(../assets/handshake.jpg);
+    margin: 47px 150px 150px;
+    width: 1140px;
+    height: 314px;
+    padding: 64px 48px;
+    text-align: center;
+
+}
+.sub-button{
+    margin:80px 0px 0px 180px;
+  display: flex;
+  gap: 16px;
+}
+
+.suggest-button{
+   border-color: white;
+    border-radius: 8px;
+    width: 548px;
+    height: 57px;
+   
+    
+}
+.submit-button{
+    border-radius: 8px;
+    background-color: white;
+color: rgb(13, 19, 33);
+font-size: 20px;
+font-weight: 600;
+position: static;
+width: 120px;
+height: 60px;
 }

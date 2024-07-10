@@ -37,7 +37,7 @@
   background-color: black;
   border-radius: 8px;
 }
-a {
+.me {
   color: white;
   text-decoration: none;
 }
@@ -200,7 +200,7 @@ a {
   margin: 90px 150px;
 }
 .html-learn {
-  /* border: red solid 2px; */
+  
   max-width: 1140px;
   max-height: 777px;
   text-align: center;
